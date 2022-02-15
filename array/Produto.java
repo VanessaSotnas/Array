@@ -25,10 +25,5 @@ public class Produto {
 	public void setPrice(double price) {
 		this.price = price;
 	}
-	
-	
-	
-	
-
 
 }
