@@ -17,7 +17,7 @@ public class Program {
 	System.out.print("How many employees will be registered?");
 	int n = sc.nextInt();
 	
-	//List <Integer> id = new ArrayList<>();
+    //List <Integer> id = new ArrayList<>();
     //List <String> name = new ArrayList<>();    Nao serao necessarios.
     //List <Double> salary = new ArrayList<>();  Instanciar um nome objeto com os 3 atributos. 
 
